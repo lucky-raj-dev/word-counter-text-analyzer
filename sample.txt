@@ -1,0 +1,3 @@
+Python is easy. Python is fun! Do you like Python?
+Programming helps us solve problems. The more we practise, the better we become.
+Learning to code is like learning a new language: it takes time, but it is worth it.
